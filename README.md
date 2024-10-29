@@ -1,6 +1,7 @@
 # Hey there, I'm Biniyam Gashaw 👋
+I’m currently an **Research and Development Engineer at CleNET Technologies** and hold a Master’s in Software Engineering. As a Top-Rated freelancer on Upwork, I specialize in building high-quality applications and delivering impactful data-driven solutions.
 
-I’m currently an **R&D Engineer at CleNET Technologies**. Thanks for stopping by!
+---
 
 ## 📊 GitHub Stats
 
